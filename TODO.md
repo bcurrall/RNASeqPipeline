@@ -1,7 +1,7 @@
 #To do list
 1. Docker
 	* setup git 10/14
-	* setup docker
+	* setup docker 10/15
 	* gatk docker base
 	* modify gatk docker
 		* fastQC
@@ -15,4 +15,8 @@
 7. Pathway Analysis
 8. Exon/Splicing Analysis
 9. Example Data
-10. Bibliography
+10. README
+	* main
+		* outline workflow
+		* setup toc
+		* setup bibliography
