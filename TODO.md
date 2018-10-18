@@ -1,7 +1,7 @@
 #To do list
 1. Docker
-	* setup git 10/14
-	* setup docker 10/15
+	* setup git 10/14/18
+	* setup docker 10/15/18
 	* gatk docker base
 	* modify gatk docker
 		* fastQC
@@ -18,5 +18,6 @@
 10. README
 	* main
 		* outline workflow
+			* started outline workflow 10/17/18
 		* setup toc
 		* setup bibliography
